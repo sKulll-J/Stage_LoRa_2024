@@ -1,0 +1,6 @@
+../Core/Src/main.c:59:6:Disable_Peripherals	1
+../Core/Src/main.c:98:6:Configure_Unused_GPIO	1
+../Core/Src/main.c:151:6:Enter_STOP2_Mode	1
+../Core/Src/main.c:178:5:main	1
+../Core/Src/main.c:245:6:SystemClock_Config	4
+../Core/Src/main.c:303:6:Error_Handler	1

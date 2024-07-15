@@ -1,0 +1,9 @@
+../Core/Src/lib_dht22.c:15:6:DHT_Init	1
+../Core/Src/lib_dht22.c:23:6:delay_us	2
+../Core/Src/lib_dht22.c:30:9:bitPosToVal	3
+../Core/Src/lib_dht22.c:41:9:verifcation_rep	4
+../Core/Src/lib_dht22.c:67:10:DHT_Read	5
+../Core/Src/lib_dht22.c:85:6:DHT_GetValue	2
+../Core/Src/lib_dht22.c:96:7:DHT_GetHumi	1
+../Core/Src/lib_dht22.c:101:7:DHT_GetTemp	1
+../Core/Src/lib_dht22.c:106:6:DHT_GetDt	1
